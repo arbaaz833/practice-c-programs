@@ -28,7 +28,8 @@ int main(){
                else
                     cout<<"\nremaining tries ="<<m-n<<endl;
             }
-            cout<<"press enter to try again and press esc to return";
+            cout<<"\nThe number was "<<gen;
+            cout<<"\npress enter to try again and press esc to return";
             xx:
             c=getche();
             i=c;
@@ -69,7 +70,8 @@ int main(){
                      else
                         cout<<"\nremaining tries ="<<k-j<<endl;
             }
-            cout<<"press enter to try again and press esc to return";
+            cout<<"\nThe number was "<<gen;
+            cout<<"\npress enter to try again and press esc to return";
             aa:
             c=getche();
             i=c;
@@ -94,7 +96,8 @@ int main(){
                      else
                         cout<<"\nremaining tries ="<<o-l<<endl;
             }
-            cout<<"press enter to try again and press esc to return";
+            cout<<"\nThe number was "<<gen;
+            cout<<"\npress enter to try again and press esc to return";
             kk:
             c=getche();
             i=c;
